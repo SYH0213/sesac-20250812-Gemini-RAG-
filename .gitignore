@@ -1,3 +1,4 @@
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -173,6 +174,7 @@ secrets.json
 *.jpg
 *.jpeg
 *.gif
+*.webp
 
 # Model files
 *.pkl
