@@ -173,7 +173,6 @@ secrets.json
 *.jpg
 *.jpeg
 *.gif
-*.pdf
 
 # Model files
 *.pkl
